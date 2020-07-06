@@ -22,7 +22,7 @@
 
 - スマホで参加する場合
   1. お試し用の飲み会部屋[(https://tacnom.com/rooms/MAXMZMHM_1315599)](https://tacnom.com/rooms/MAXMZMHM_1315599) にアクセス
-![01](https://user-images.githubusercontent.com/12508784/86560906-50d18a80-bf9a-11ea-9243-e265366ee781.png)
+  ![sp01](https://user-images.githubusercontent.com/12508784/86570973-b712d900-bfab-11ea-9c0d-fe87292b319e.PNG)
 
   1. 「Open the app」をクリック
   ![InkedIMG_0889_LI](https://user-images.githubusercontent.com/12508784/86565965-c7bf5100-bfa3-11ea-8e12-015c9ca76978.jpg)
