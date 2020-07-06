@@ -16,7 +16,9 @@
 ## 2. 端末（スマホやパソコン）の確認
 持っている端末で飲み会に参加できることを確認します。<br>
 
-- iphone, ipadで参加する場合は[こちら](/tanmatsu_check/ios.md)
+- スマホ(iphone, ipad)で参加する場合は[こちら](/tanmatsu_check/ios.md)
+
+- スマホ(android)で参加する場合は[こちら](/tanmatsu_check/android.md)
 
 - パソコン(Windows)で参加する場合は[こちら](/tanmatsu_check/windows.md)
 
