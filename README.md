@@ -21,8 +21,6 @@
 - パソコン(Windows)で参加する場合は[こちら](/tanmatsu_check/windows.md)
 
 <br>
-<br>
-
 
 # 当日の流れ
 当日はLineで連絡します。<br>
