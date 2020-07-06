@@ -19,15 +19,15 @@
 - スマホで参加する場合
   1. お試し用の飲み会部屋[(https://tacnom.com/rooms/MAXMZMHM_1315599)](https://tacnom.com/rooms/MAXMZMHM_1315599) にアクセス
   
-![sp01](https://user-images.githubusercontent.com/12508784/86572208-977cb000-bfad-11ea-8a87-ceabac0ee736.PNG)
+  ![sp01](https://user-images.githubusercontent.com/12508784/86572208-977cb000-bfad-11ea-8a87-ceabac0ee736.PNG)
 
   1. 「Open the app」をクリック
   
-![sp02](https://user-images.githubusercontent.com/12508784/86572210-98addd00-bfad-11ea-88a7-d39c0874a09f.jpg)
+  ![sp02](https://user-images.githubusercontent.com/12508784/86572210-98addd00-bfad-11ea-88a7-d39c0874a09f.jpg)
   
   1. アプリケーションのインストール画面になるので「入手」をクリック
   
-![sp03](https://user-images.githubusercontent.com/12508784/86572211-98addd00-bfad-11ea-8816-1cec278093d6.jpg)
+  ![sp03](https://user-images.githubusercontent.com/12508784/86572211-98addd00-bfad-11ea-8816-1cec278093d6.jpg)
 
   1. 「インストール」をクリック
 
