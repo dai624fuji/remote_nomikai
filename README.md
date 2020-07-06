@@ -60,6 +60,7 @@
   ![InkedIMG_0903_LI](https://user-images.githubusercontent.com/12508784/86568176-6f8a4e00-bfa7-11ea-9a36-7f76e168b521.jpg)
 
   1. メールが届くので番号を確認
+  ![mail](https://user-images.githubusercontent.com/12508784/86569956-28518c80-bfaa-11ea-9f97-28f5e6e1416f.png)
 
   1. 確認した番号を入力し、「Verify」をクリック
   ![InkedIMG_0904_LI](https://user-images.githubusercontent.com/12508784/86568182-72853e80-bfa7-11ea-9cb1-5e02caa2f552.jpg)
