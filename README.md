@@ -16,6 +16,8 @@
 ## 2. 端末（スマホやパソコン）の確認
 持っている端末で飲み会に参加できることを確認します。<br>
 
+- iphone, ipadで参加する場合は[こちら](/tanmatsu_check/ios.md)
+
 - スマホで参加する場合
   1. お試し用の飲み会部屋[(https://tacnom.com/rooms/MAXMZMHM_1315599)](https://tacnom.com/rooms/MAXMZMHM_1315599) にアクセス<br>
     ![sp01](https://user-images.githubusercontent.com/12508784/86572208-977cb000-bfad-11ea-8a87-ceabac0ee736.PNG)
