@@ -21,14 +21,15 @@
   1. 「マイク」と「カメラ」を許可するに設定 <br>
     ![ad08](https://user-images.githubusercontent.com/12508784/86813805-920d8b80-c0bb-11ea-9fb8-309254cd489d.png)
 
-  1. 一つ前の画面に戻り、「マイク」と「カメラ」が許可されていることを確認 <br>
+  1. 一つ前の画面に戻り、「マイク」と「カメラ」が許可されていることを確認。確認したら設定を終了。 <br>
     ![ad09](https://user-images.githubusercontent.com/12508784/86813806-920d8b80-c0bb-11ea-95e6-b06f682e7f2b.png)
 
-  1. この文章を「Chrome」で開きなおす。(Lineで開いている場合は、右上の「・・・」をクリックして「他のアプリで開く」をクリック） <br>
-    ![ad10](https://user-images.githubusercontent.com/12508784/86813810-933eb880-c0bb-11ea-8479-430d9a00ca1f.png)
+  1. 今読んでいるこの文章を「Chrome」で開きなおす。(Lineで開いている場合は、右上の「・・・」をクリックして「他のアプリで開く」をクリック） <br>
+    ![ad10](https://user-images.githubusercontent.com/12508784/86813810-933eb880-c0bb-11ea-8479-430d9a00ca1f.png) <br>
+    <br>
     ![ad11](https://user-images.githubusercontent.com/12508784/86813813-933eb880-c0bb-11ea-8dce-e776a14f05c7.png)
 
-  1. Chromeの画面からお試し用の飲み会部屋[(https://tacnom.com/rooms/MAXMZMHM_1315599)](https://tacnom.com/rooms/MAXMZMHM_1315599) にアクセス <br>
+  1. お試し用の飲み会部屋[(https://tacnom.com/rooms/MAXMZMHM_1315599)](https://tacnom.com/rooms/MAXMZMHM_1315599) にアクセス <br>
     ![pc01](https://user-images.githubusercontent.com/12508784/86572184-90ee3880-bfad-11ea-9aa0-7c26e5e8d03b.png)
 
   1. 「Enter Your name」に自分の名前を入力して「continue」をクリック <br>
