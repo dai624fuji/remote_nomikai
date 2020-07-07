@@ -1,9 +1,34 @@
 スマホ(android)の動作確認手順
 
-  1. お試し用の飲み会部屋[(https://tacnom.com/rooms/MAXMZMHM_1315599)](https://tacnom.com/rooms/MAXMZMHM_1315599) にブラウザでアクセス <br>
+  1. Google Playストア　アプリを起動 <br>
+    ![ad01](https://user-images.githubusercontent.com/12508784/86813789-8fab3180-c0bb-11ea-85c8-842c3e992168.png)
 
+  1. 「Chrome（クローム）」を検索し、インストール（インストールが終わるまで少し待ちます。）<br>
+    ![ad02](https://user-images.githubusercontent.com/12508784/86813792-8fab3180-c0bb-11ea-880c-9a83f28d9f0a.png)
 
-  1. お試し用の飲み会部屋[(https://tacnom.com/rooms/MAXMZMHM_1315599)](https://tacnom.com/rooms/MAXMZMHM_1315599) にブラウザでアクセス <br>
+  1. スマホの最初の画面に戻り「設計」を起動 <br>
+    ![ad03](https://user-images.githubusercontent.com/12508784/86813793-9043c800-c0bb-11ea-9461-cc549384e9e3.png)
+
+  1. 「アプリ」をクリック <br>
+    ![ad04](https://user-images.githubusercontent.com/12508784/86813797-90dc5e80-c0bb-11ea-9944-d38ab42dbf86.png)
+
+  1. 「Chrome」をクリック <br>
+    ![ad05](https://user-images.githubusercontent.com/12508784/86813799-90dc5e80-c0bb-11ea-9ab5-5306002f108d.png)
+
+  1. 「許可」をクリック <br>
+    ![ad06](https://user-images.githubusercontent.com/12508784/86813802-9174f500-c0bb-11ea-9b3e-3e9be7073b18.png)
+
+  1. 「マイク」と「カメラ」を許可するに設定 <br>
+    ![ad08](https://user-images.githubusercontent.com/12508784/86813805-920d8b80-c0bb-11ea-9fb8-309254cd489d.png)
+
+  1. 一つ前の画面に戻り、「マイク」と「カメラ」が許可されていることを確認 <br>
+    ![ad09](https://user-images.githubusercontent.com/12508784/86813806-920d8b80-c0bb-11ea-95e6-b06f682e7f2b.png)
+
+  1. この文章を「Chrome」で開きなおす。(Lineで開いている場合は、右上の「・・・」をクリックして「他のアプリで開く」をクリック） <br>
+    ![ad10](https://user-images.githubusercontent.com/12508784/86813810-933eb880-c0bb-11ea-8479-430d9a00ca1f.png)
+    ![ad11](https://user-images.githubusercontent.com/12508784/86813813-933eb880-c0bb-11ea-8dce-e776a14f05c7.png)
+
+  1. Chromeの画面からお試し用の飲み会部屋[(https://tacnom.com/rooms/MAXMZMHM_1315599)](https://tacnom.com/rooms/MAXMZMHM_1315599) にアクセス <br>
     ![pc01](https://user-images.githubusercontent.com/12508784/86572184-90ee3880-bfad-11ea-9aa0-7c26e5e8d03b.png)
 
   1. 「Enter Your name」に自分の名前を入力して「continue」をクリック <br>
@@ -13,7 +38,7 @@
     ![pc03](https://user-images.githubusercontent.com/12508784/86572191-921f6580-bfad-11ea-8d4f-1dfb28d23613.jpg)
 
   1. 以下の様に「マイクの使用、カメラの使用」を求められたら許可（Allow）をクリック <br>
-    ![pc04](https://user-images.githubusercontent.com/12508784/86572193-921f6580-bfad-11ea-9613-d1269ab4aa73.jpg)
+    ![ad12](https://user-images.githubusercontent.com/12508784/86813785-8e7a0480-c0bb-11ea-9bb7-663dbad93800.png)
 
   1. 自分の顔が映ることを確認。音声も拾えていることを確認（しゃべった時、マイクのマークが緑色になる。） <br>
     ![pc05](https://user-images.githubusercontent.com/12508784/86572194-92b7fc00-bfad-11ea-9080-5a4f5bfe1e76.jpg)
