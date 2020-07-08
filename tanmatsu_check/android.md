@@ -1,15 +1,9 @@
 スマホ(android)の動作確認手順
 
-  1. Google Playストア　アプリを起動 <br>
-    ![ad01](https://user-images.githubusercontent.com/12508784/86813789-8fab3180-c0bb-11ea-85c8-842c3e992168.png)
-
-  1. 「Chrome（クローム）」を検索し、インストール（インストールが終わるまで少し待ちます。）<br>
+  1. Google Playストア　アプリを起動し「Chrome（クローム）」をインストール　<br>
     ![ad02](https://user-images.githubusercontent.com/12508784/86813792-8fab3180-c0bb-11ea-880c-9a83f28d9f0a.png)
 
-  1. スマホの最初の画面に戻り「設計」を起動 <br>
-    ![ad03](https://user-images.githubusercontent.com/12508784/86813793-9043c800-c0bb-11ea-9461-cc549384e9e3.png)
-
-  1. 「アプリ」をクリック <br>
+  1. スマホの「設計」を起動し、「アプリ」をクリック　※androidのバージョンにより表示が若干異なります。 <br>
     ![ad04](https://user-images.githubusercontent.com/12508784/86813797-90dc5e80-c0bb-11ea-9944-d38ab42dbf86.png)
 
   1. 「Chrome」をクリック <br>
