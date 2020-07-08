@@ -29,7 +29,7 @@
     <br>
     ![ad11](https://user-images.githubusercontent.com/12508784/86813813-933eb880-c0bb-11ea-8dce-e776a14f05c7.png)
 
-  1. お試し用の飲み会部屋[(https://tacnom.com/rooms/MAXMZMHM_1315599)](https://tacnom.com/rooms/MAXMZMHM_1315599) にアクセス <br>
+  1. お試し用の飲み会部屋([https://tacnom.com/rooms/YWXCINPK_1318810](https://tacnom.com/rooms/YWXCINPK_1318810)) にアクセス <br>
     ![pc01](https://user-images.githubusercontent.com/12508784/86572184-90ee3880-bfad-11ea-9aa0-7c26e5e8d03b.png)
 
   1. 「Enter Your name」に自分の名前を入力して「continue」をクリック <br>
