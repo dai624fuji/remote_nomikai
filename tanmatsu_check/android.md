@@ -6,6 +6,7 @@
   1. 今読んでいるこの文章を「Chrome」で開きなおす。(Lineで開いている場合は、右上の「・・・」をクリックして「他のアプリで開く」をクリック） <br>
     ![ad10](https://user-images.githubusercontent.com/12508784/86813810-933eb880-c0bb-11ea-8479-430d9a00ca1f.png) <br>
     <br>
+  1. 「Chrome」を選択する <br>
     ![ad11](https://user-images.githubusercontent.com/12508784/86813813-933eb880-c0bb-11ea-8dce-e776a14f05c7.png)
 
   1. お試し用の飲み会部屋([https://tacnom.com/rooms/YWXCINPK_1318810](https://tacnom.com/rooms/YWXCINPK_1318810)) にアクセス <br>
