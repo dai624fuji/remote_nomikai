@@ -32,5 +32,8 @@
 
 - 食べ物、[飲み物](https://www.amazon.co.jp/s?k=%E5%A4%A7%E4%BA%94%E9%83%8E&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&ref=nb_sb_noss_2)を用意して開始時間をお待ちください。
 
+- 飲み会終了後にLineのグループは解散します。
+
+
 
 
