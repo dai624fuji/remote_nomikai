@@ -1,6 +1,6 @@
 iphone, ipad の動作確認手順
 
-  1. お試し用の飲み会部屋([https://tacnom.com/rooms/GTIAUVLA_1327671](https://tacnom.com/rooms/GTIAUVLA_1327671))にアクセス<br>
+  1. お試し用の飲み会部屋([https://tacnom.com/rooms/NLDLUQAV_1333905](https://tacnom.com/rooms/NLDLUQAV_1333905))にアクセス<br>
     ![sp01](https://user-images.githubusercontent.com/12508784/86572208-977cb000-bfad-11ea-8a87-ceabac0ee736.PNG)
 
   1. 「Open the app」をクリック<br>
