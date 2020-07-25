@@ -1,7 +1,13 @@
 iphone, ipad の動作確認手順
 
-  1. お試し用の飲み会部屋([https://tacnom.com/rooms/SUJRDYGY_1339239](https://tacnom.com/rooms/SUJRDYGY_1339239))にアクセス<br>
-    ![sp01](https://user-images.githubusercontent.com/12508784/86572208-977cb000-bfad-11ea-8a87-ceabac0ee736.PNG)
+  1. たくのむ([https://tacnom.com](https://tacnom.com))にブラウザでアクセスし、「飲み会ルームを作成する」をクリック <br>
+    ![pc07](https://user-images.githubusercontent.com/12508784/88452279-4d923600-ce98-11ea-8eac-45e5d8100da7.png)
+
+  1. 「飲み会ルームを作成する」をクリック <br>
+    ![pc08](https://user-images.githubusercontent.com/12508784/88452280-4ec36300-ce98-11ea-9037-e5b7fa68b4e3.png)
+
+  1. 表示されたURLをクリック <br>
+    ![pc09](https://user-images.githubusercontent.com/12508784/88452281-4f5bf980-ce98-11ea-8558-9418e01a0241.png)
 
   1. 「Open the app」をクリック<br>
     ![sp02](https://user-images.githubusercontent.com/12508784/86572210-98addd00-bfad-11ea-88a7-d39c0874a09f.jpg)
