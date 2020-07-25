@@ -51,6 +51,8 @@
 
 - 食べ物、[飲み物](https://www.amazon.co.jp/s?k=%E5%A4%A7%E4%BA%94%E9%83%8E&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&ref=nb_sb_noss_2)を用意して開始時間をお待ちください。<br>
 
+![syokuji_computer](https://user-images.githubusercontent.com/12508784/88452753-39503800-ce9c-11ea-9dd7-8bdbafeffddb.png)
+<br>
 ### 部屋
 
 |  部屋の名前  |  url  |
