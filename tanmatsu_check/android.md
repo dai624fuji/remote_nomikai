@@ -9,7 +9,7 @@
   1. 「Chrome」を選択する <br>
     ![ad11](https://user-images.githubusercontent.com/12508784/86813813-933eb880-c0bb-11ea-8dce-e776a14f05c7.png)
 
-  1. たくのむ([https://tacnom.com](https://tacnom.com))にブラウザでアクセスし、「飲み会ルームを作成する」をクリック <br>
+  1. たくのむ([https://tacnom.com](https://tacnom.com))にアクセスし、「飲み会ルームを作成する」をクリック <br>
     ![pc07](https://user-images.githubusercontent.com/12508784/88452279-4d923600-ce98-11ea-8eac-45e5d8100da7.png)
 
   1. 「飲み会ルームを作成する」をクリック <br>
