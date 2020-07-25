@@ -9,8 +9,14 @@
   1. 「Chrome」を選択する <br>
     ![ad11](https://user-images.githubusercontent.com/12508784/86813813-933eb880-c0bb-11ea-8dce-e776a14f05c7.png)
 
-  1. お試し用の飲み会部屋([https://tacnom.com/rooms/SUJRDYGY_1339239](https://tacnom.com/rooms/SUJRDYGY_1339239)) にアクセス <br>
-    ![pc01](https://user-images.githubusercontent.com/12508784/86572184-90ee3880-bfad-11ea-9aa0-7c26e5e8d03b.png)
+  1. たくのむ([https://tacnom.com](https://tacnom.com))にブラウザでアクセスし、「飲み会ルームを作成する」をクリック <br>
+    ![pc07](https://user-images.githubusercontent.com/12508784/88452279-4d923600-ce98-11ea-8eac-45e5d8100da7.png)
+
+  1. 「飲み会ルームを作成する」をクリック <br>
+    ![pc08](https://user-images.githubusercontent.com/12508784/88452280-4ec36300-ce98-11ea-9037-e5b7fa68b4e3.png)
+
+  1. 表示されたURLをクリック <br>
+    ![pc09](https://user-images.githubusercontent.com/12508784/88452281-4f5bf980-ce98-11ea-8558-9418e01a0241.png)
 
   1. 「マイクの使用、カメラの使用」を求められたら許可（Allow）をクリック <br>
     ![ad12](https://user-images.githubusercontent.com/12508784/86813785-8e7a0480-c0bb-11ea-9bb7-663dbad93800.png)
