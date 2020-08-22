@@ -19,32 +19,6 @@
 ![syokuji_computer](https://user-images.githubusercontent.com/12508784/88452753-39503800-ce9c-11ea-9dd7-8bdbafeffddb.png)
 <br>
 
-### 1次会
-- 18:00-18:10 乾杯
-
-|  部屋  |  メンバー  |
-| ---- | ---- |
-|  [部屋a https://tacnom.com/rooms/PWHGKWXK_1409178](https://tacnom.com/rooms/PWHGKWXK_1409178)  |  全員  |
-
-- 18:10-18:30
-
-|  部屋  |  メンバー  |
-| ---- | ---- |
-|  [部屋a https://tacnom.com/rooms/PWHGKWXK_1409178](https://tacnom.com/rooms/PWHGKWXK_1409178)  |  小林, 藤原, 藤野,本間, 鈴木  |
-|  [部屋b https://tacnom.com/rooms/DZAUDUNI_1409183](https://tacnom.com/rooms/DZAUDUNI_1409183)  |  村田, 白河, 松原, 川窪,柳田, 宮本  |
-
-- 18:30-20:00
-
-※適当に部屋を移動してOKです。
-
-|  部屋  |  メンバー  |
-| ---- | ---- |
-| [部屋a https://tacnom.com/rooms/PWHGKWXK_1409178](https://tacnom.com/rooms/PWHGKWXK_1409178) |  自由  |
-| [部屋b https://tacnom.com/rooms/DZAUDUNI_1409183](https://tacnom.com/rooms/DZAUDUNI_1409183) |  自由  |
-| [部屋c https://tacnom.com/rooms/OHHHATTC_1409184](https://tacnom.com/rooms/OHHHATTC_1409184) |  自由  |
-
-
-
 ### 2次会
 - 22:00-23:00
 
