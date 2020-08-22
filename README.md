@@ -5,7 +5,7 @@
 ![online_nomikai_woman](https://user-images.githubusercontent.com/12508784/88452748-36edde00-ce9c-11ea-820a-3ae08c8d1f19.png)
 <br>
 
-## 参加の準備
+## [参加の準備](/junbi.md)
 ### 1. 参加の連絡
 人づてでも何でも良いので藤野に参加の意思を伝えてください。以下に追記します。<br>
 ![kyosyu_smartphone_man](https://user-images.githubusercontent.com/12508784/88452758-3bb29200-ce9c-11ea-9c5d-085366b04b9e.png)
