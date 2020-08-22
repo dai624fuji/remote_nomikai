@@ -35,13 +35,14 @@
 
 - 18:30-20:00
 
+※適当に部屋を移動してOKです。
+
 |  部屋  |  メンバー  |
 | ---- | ---- |
 | [部屋a https://tacnom.com/rooms/PWHGKWXK_1409178](https://tacnom.com/rooms/PWHGKWXK_1409178) |  自由  |
 | [部屋b https://tacnom.com/rooms/DZAUDUNI_1409183](https://tacnom.com/rooms/DZAUDUNI_1409183) |  自由  |
 | [部屋c https://tacnom.com/rooms/OHHHATTC_1409184](https://tacnom.com/rooms/OHHHATTC_1409184) |  自由  |
 
-※適当に部屋を移動してやってみます。
 
 
 ### 2次会
