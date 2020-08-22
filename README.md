@@ -30,7 +30,7 @@
 
 |  部屋  |  メンバー  |
 | ---- | ---- |
-|  [部屋a https://tacnom.com/rooms/PWHGKWXK_1409178](https://tacnom.com/rooms/PWHGKWXK_1409178)  |  小林, 阪口, 藤原, 藤野,本間, 鈴木  |
+|  [部屋a https://tacnom.com/rooms/PWHGKWXK_1409178](https://tacnom.com/rooms/PWHGKWXK_1409178)  |  小林, 藤原, 藤野,本間, 鈴木  |
 |  [部屋b https://tacnom.com/rooms/DZAUDUNI_1409183](https://tacnom.com/rooms/DZAUDUNI_1409183)  |  村田, 白河, 松原, 川窪,柳田, 宮本  |
 
 - 18:30-20:00
