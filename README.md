@@ -1,6 +1,6 @@
-**「元信大バド部 オンライン飲み会」** のガイドです。 <br>
-1次会: 8/22(土) 18:00-20:00 <br>
-2次会: 8/22(土) 22:00-23:00 <br>
+**「オンライン飲み会」** のガイドです。 <br>
+1次会: x/xx(x) 18:00-20:00 <br>
+2次会: x/xx(x) 22:00-23:00 <br>
 <br>
 ![online_nomikai_woman](https://user-images.githubusercontent.com/12508784/88452748-36edde00-ce9c-11ea-820a-3ae08c8d1f19.png)
 <br>
